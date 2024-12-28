@@ -5,4 +5,5 @@
 *.pem
 *.key
 Screenshots/
-terraformvar.tf
+terraform.tfvars
+
